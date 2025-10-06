@@ -1,4 +1,7 @@
 # 🏠 California Housing Price Prediction - Model Evolution
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-orange)](https://scikit-learn.org/)
+
 Um projeto feito no curso "Fundamentos de IA: investigando algoritmos e abordagens de machine learning" na Alura completo de Machine Learning supervisionado demonstrando a evolução de modelos de regressão para previsão de preços de imóveis na Califórnia. Do baseline simples às técnicas avançadas de ensemble learning.
 
 ## 📊 Sobre o Projeto
