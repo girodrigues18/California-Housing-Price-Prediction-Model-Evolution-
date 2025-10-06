@@ -1,5 +1,5 @@
 # 🏠 California Housing Price Prediction - Model Evolution
-Um projeto completo de Machine Learning supervisionado demonstrando a evolução de modelos de regressão para previsão de preços de imóveis na Califórnia. Do baseline simples às técnicas avançadas de ensemble learning.
+Um projeto feito no curso "Fundamentos de IA: investigando algoritmos e abordagens de machine learning" na Alura completo de Machine Learning supervisionado demonstrando a evolução de modelos de regressão para previsão de preços de imóveis na Califórnia. Do baseline simples às técnicas avançadas de ensemble learning.
 
 ## 📊 Sobre o Projeto
 
